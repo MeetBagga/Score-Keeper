@@ -1,2 +1,3 @@
-# hello-world
-Hello world sample
+#Score keeper
+A score keeper web app made by using html,css,bootstrap and javascript
+
